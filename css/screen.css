@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+@media screen and (min-width: 480px){
+	label {
+		display: inline-block;
+		color: black;
+		background: lightgray;
+		border-style: ;
+		margin-right: 15px;
+		margin-left: 20px;
+		font-size: 1.3em;
+		/*width: 1%;*/
+		height: 5px;
+		padding: 20px 50px;
+		margin-bottom:10px;
+	}
+
+	input{
+		height: 50px;
+		margin-bottom: 10px;
+		/*padding: 40px;
+*/	}
+
+	div{
+		display: inline;
+	}
+
+	body{
+		padding: 75px;
+	}
+
+	label {
+		font-family: 'Inter', sans-serif;
+	}
+
+	p, h1{
+		font-family: 'Inter', sans-serif;
+		font-size: 1.5em;
+		padding: 5px;
+	}
+	
+	#input-email {
+		background-color: lightgray;
+		margin-top: 15px;
+	}
+
+	#input-age-verification {
+		background-color: lightgray;
+		margin-top: 15px;
+		margin-bottom: 15px;
+
+	}
+
+}
