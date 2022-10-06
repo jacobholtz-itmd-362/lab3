@@ -43,12 +43,15 @@
 	#input-email {
 		background-color: lightgray;
 		margin-top: 15px;
+		text-align: center;
 	}
 
 	#input-age-verification {
 		background-color: lightgray;
-		margin-top: 15px;
-		margin-bottom: 15px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		text-align: center;
+		padding-bottom: 15px;
 
 	}
 
